@@ -1,3 +1,4 @@
 [submodule "extras/ripple-libpp"]
 	path = extras/ripple-libpp
-	url = https://github.com/ripple/ripple-libpp.git
+	url = https://github.com/ximinez/ripple-libpp.git
+	branch = cmake_group
